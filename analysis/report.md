@@ -1,3 +1,10 @@
+<script type="text/javascript"
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+
 # Pattern Identification Report
 
 The transaction dataset reveals distinct spending patterns across categories. Some, such as travel or electronics, show high variability, characterized by sporadic, high-value purchases followed by quiet periods. Others, such as subscriptions or rent, remain stable, reflecting recurring, predictable expenses.  
@@ -36,3 +43,4 @@ where
 All computations are causal, using only prior history, and account for refunds. Transactions quickly reversed (≥90% within 14 days) are excluded to avoid false positives.  
 
 This framework detects both sudden anomalies and persistent shifts in user spending, forming the backbone of an adaptive, data-driven financial monitoring system.  
+
