@@ -1,0 +1,13 @@
+{
+  "metric_name": "adaptive_outlier_rule",
+  "value": [
+    2.1745,
+    5.301,
+    14.7032
+  ],
+  "transaction": [
+    "2025-08-01 — MENSALIDADE DE SEGURO   Parc 003/036 Vida Grupo — -141.31",
+    "2025-08-01 — PIX ENVIADO   Joao Vitor Sousa Escudero — -1560.45",
+    "2025-08-03 — PIX ENVIADO   Joao Vitor Sousa Escudero — -4400.00"
+  ]
+}
